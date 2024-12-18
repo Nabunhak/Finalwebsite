@@ -54,9 +54,8 @@ li a{
 button{
     background-color: black; 
     margin-left: 10px; 
-    border-radius: 10px; 
+    border-radius: 5px; 
     padding: 10px; 
-    width: 90px;
 }
 button a{
     color: white; 
@@ -624,9 +623,10 @@ nav input{
   border: 2px solid black;
   background-color: transparent;
   color: black;
-  padding: 14px 30px;
+  padding: 10px 30px;
   font-size: 15px;
   cursor: pointer;
+  text-wrap: nowrap;
 }
 .learn {
   border-color: #04AA6D;
